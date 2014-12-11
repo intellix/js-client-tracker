@@ -1,0 +1,23 @@
+{
+  "name": "woopra-tracker",
+  "version": "5.0.11",
+  "homepage": "https://github.com/intellix/js-client-tracker",
+  "authors": [
+    "Billy Vong <billy@woopra.com>"
+  ],
+  "description": "Woopra JS tracker",
+  "main": "wpt.js",
+  "keywords": [
+    "woopra"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "index.html",
+    "README.md",
+    "package.json"
+  ]
+}
