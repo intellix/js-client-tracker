@@ -15,7 +15,7 @@
      * Constants
      */
     var VERSION = 11;
-    var ENDPOINT = '//www.woopra.com/track/';
+    var ENDPOINT = 'https://www.woopra.com/track/';
 
     /**
      * Array.prototype.indexOf polyfill via

@@ -32,7 +32,7 @@
     // insert tracker script
     s = d.createElement(q);
     s.async = 1;
-    s.src = '//static.woopra.com/js/w.js';
+    s.src = 'https://static.woopra.com/js/w.js';
     z = d.getElementsByTagName(q)[0];
     z.parentNode.insertBefore(s, z);
 })('woopra');
